@@ -10,8 +10,8 @@ Created a small application to fetch users location and show him nearby banks, A
 - run npm start
 - open http://localhost:3000 in your browser
 
-# Used Library
+# Used Google API
 
 - Google Maps 
-- Google Places Library 
-- Javascript Geolocation 
+- Google Places
+- Geolocation 
