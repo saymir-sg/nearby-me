@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/nearby-me/static/css/main.ac340de9.chunk.css",
-    "main.js": "/nearby-me/static/js/main.5620c19e.chunk.js",
-    "main.js.map": "/nearby-me/static/js/main.5620c19e.chunk.js.map",
+    "main.js": "/nearby-me/static/js/main.ef868d40.chunk.js",
+    "main.js.map": "/nearby-me/static/js/main.ef868d40.chunk.js.map",
     "runtime-main.js": "/nearby-me/static/js/runtime-main.ab708c76.js",
     "runtime-main.js.map": "/nearby-me/static/js/runtime-main.ab708c76.js.map",
     "static/js/2.6ec22b07.chunk.js": "/nearby-me/static/js/2.6ec22b07.chunk.js",
     "static/js/2.6ec22b07.chunk.js.map": "/nearby-me/static/js/2.6ec22b07.chunk.js.map",
     "index.html": "/nearby-me/index.html",
-    "precache-manifest.fa8235e0756ea4aa1b1ac1756b59ab05.js": "/nearby-me/precache-manifest.fa8235e0756ea4aa1b1ac1756b59ab05.js",
+    "precache-manifest.ce3f42fa474989854fd8ebbbc822fe48.js": "/nearby-me/precache-manifest.ce3f42fa474989854fd8ebbbc822fe48.js",
     "service-worker.js": "/nearby-me/service-worker.js",
     "static/css/main.ac340de9.chunk.css.map": "/nearby-me/static/css/main.ac340de9.chunk.css.map",
     "static/js/2.6ec22b07.chunk.js.LICENSE": "/nearby-me/static/js/2.6ec22b07.chunk.js.LICENSE"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.ab708c76.js",
     "static/js/2.6ec22b07.chunk.js",
     "static/css/main.ac340de9.chunk.css",
-    "static/js/main.5620c19e.chunk.js"
+    "static/js/main.ef868d40.chunk.js"
   ]
 }
